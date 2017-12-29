@@ -7,11 +7,7 @@
         {
             "ip": "test1.264",
             "port": 123
-        },
-        {
-            "ip": "testss",
-            "port": 123
         }
     ],
-    "camera_total_number": 3
+    "camera_total_number": 2
 }
