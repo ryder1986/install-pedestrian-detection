@@ -1,12 +1,12 @@
 {
     "camera": [
         {
-            "ip": "rtsp://192.168.1.89:554/av0_0",
-            "port": 5000
+            "ip": "rtsp://192.168.1.218:8554/test1",
+            "port": 1234
         },
         {
-            "ip": "test1.264",
-            "port": 123
+            "ip": "rtsp://192.168.1.218:8555/test1",
+            "port": 1234
         }
     ],
     "camera_total_number": 2
